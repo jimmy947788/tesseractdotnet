@@ -6,6 +6,9 @@
 A tutorial to create Tesseract Engine 3.0.x .net wrapper.
 
 = Details =
+
+Below is a quick tutorial:
+
 1.
 Download *tesseractenginewrapper.h* and *tesseractenginewrapper.cpp* at *http://code.google.com/p/tesseractdotnet/source/browse/trunk/
 
@@ -23,3 +26,5 @@ Output File: *tesseractengine3.dll*
 
 4.
 After that, apply building the project.
+
+Note: You can also find simple application at *http://code.google.com/p/tesseractdotnet/source/browse/trunk/TesseractBasedOCRAnalysis.sln
