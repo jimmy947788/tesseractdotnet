@@ -1,0 +1,25 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+A tutorial to create Tesseract Engine 3.0.x .net wrapper.
+
+= Details =
+1.
+Download *tesseractenginewrapper.h* and *tesseractenginewrapper.cpp* at *http://code.google.com/p/tesseractdotnet/source/browse/trunk/
+
+2.
+Add them to tesseract project (*http://code.google.com/p/tesseract-ocr/)
+
+3.
+Changed the project settings as belows:
+
+Configuration Type: *Dynamic Library (.dll)*
+
+Common Language Runtime Support: *Old Syntax (/clr:oldSyntax)*
+
+Output File: *tesseractengine3.dll*
+
+4.
+After that, apply building the project.
