@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary A tutorial to create Tesseract Engine 3.0.x .net wrapper.
 #labels Featured,Phase-Implementation
 
 = Introduction =
