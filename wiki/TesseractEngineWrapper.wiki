@@ -14,8 +14,9 @@ Below is a quick tutorial:
 1.
 Download all files at: *https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper/TesseractEngineWrapper
 
-Merge downloaded files with your source code.
-*You can also do copy and override, if you make sure that your source code version is 3.01 r552.*
+    Merge downloaded files with your source code.
+
+    *You can also do copy and override, if you make sure that your source code version is 3.01 r552.*
 
 2.
 Add two new files (*tesseractenginewrapper.h* and *tesseractenginewrapper*) to *tesseract* project (*http://code.google.com/p/tesseract-ocr/)
@@ -23,11 +24,11 @@ Add two new files (*tesseractenginewrapper.h* and *tesseractenginewrapper*) to *
 3.
 Changed the project settings as belows:
 
-Configuration Type: *Dynamic Library (.dll)*
+    Configuration Type: *Dynamic Library (.dll)*
 
-Common Language Runtime Support: *Old Syntax (/clr:oldSyntax)*
+    Common Language Runtime Support: *Old Syntax (/clr:oldSyntax)*
 
-Output File: *tesseractengine3.dll*
+    Output File: *tesseractengine3.dll*
 
 4.
 After that, apply building the project.
