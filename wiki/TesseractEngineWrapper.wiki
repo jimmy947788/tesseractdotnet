@@ -32,7 +32,7 @@ Changed the project settings as belows:
 
     Output File: *tesseractengine3.dll*
 
-
+    Also need to add *System, System.Drawing* assembly to *Common Properties\Framework and References*
 
 4.
 After that, apply building the project.
