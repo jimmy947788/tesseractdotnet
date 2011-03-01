@@ -43,4 +43,4 @@ After that, apply building the project.
 You can also find simple application at *https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper
 *
 
-If you use above application, you have to configure tesseract engine first (from *main menu >> tools >> options*)
+If you use above application; you have to configure tesseract engine first (from *main menu >> tools >> options*), and copy Leptonica library to application path. 
