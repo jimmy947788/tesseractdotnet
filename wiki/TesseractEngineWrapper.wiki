@@ -12,7 +12,7 @@ A tutorial to create Tesseract Engine 3.x .net wrapper.
 Below is a quick tutorial:
 
 
-* Note: Use sources/tessdata/third party from svn; [http://code.google.com/p/tesseract-ocr/ tesseract-ocr] version should be 3.01 r552
+* Note: Use [http://tesseract-ocr.googlecode.com/svn/trunk/ sources]/[http://tesseract-ocr.googlecode.com/svn/trunk/tessdata/ tessdata]/[http://tesseract-ocr.googlecode.com/svn/trunk/vs2008/lib/ third party] from svn; [http://code.google.com/p/tesseract-ocr/ tesseract-ocr] version should be 3.01 r552
 
 1.
 Download all files at: [https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper/TesseractEngineWrapper TesseractEngineWrapper] 
