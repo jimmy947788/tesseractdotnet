@@ -1,9 +1,9 @@
-#summary A tutorial to create Tesseract Engine 3.x .net wrapper.
+#summary A tutorial to create Tesseract Engine 3.01/3.x .net wrapper.
 #labels Featured,Phase-Implementation
 
 = Introduction =
 
-A tutorial to create Tesseract Engine 3.x .net wrapper.
+A tutorial to create Tesseract Engine 3.01/3.x .net wrapper.
 
 = Details =
 
