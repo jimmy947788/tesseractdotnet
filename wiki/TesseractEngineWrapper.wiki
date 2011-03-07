@@ -15,15 +15,14 @@ Below is a quick tutorial:
 * Note: Use sources/tessdata/third party from svn; [http://code.google.com/p/tesseract-ocr/ tesseract-ocr] version should be 3.01 r552
 
 1.
-Download all files at: *https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper/TesseractEngineWrapper
+Download all files at: [https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper/TesseractEngineWrapper TesseractEngineWrapper] 
 
     Merge downloaded files with your source code. *You can also do copy and override, if you make sure that your source code version is 3.01 r552.*
 
 
 
 2.
-Add two new files (*tesseractenginewrapper.h* and *tesseractenginewrapper*) to *tesseract* project (*http://code.google.com/p/tesseract-ocr/)
-
+Add two new files ([http://code.google.com/p/tesseractdotnet/source/browse/trunk/dotnetwrapper/TesseractEngineWrapper/tesseractenginewrapper.h tesseractenginewrapper.h] and [http://code.google.com/p/tesseractdotnet/source/browse/trunk/dotnetwrapper/TesseractEngineWrapper/tesseractenginewrapper.cpp tesseractenginewrapper.cpp]) to [http://code.google.com/p/tesseract-ocr/ tesseract project]
 
 
 3.
@@ -43,7 +42,6 @@ After that, apply building the project.
 
 
 *Note:*
-You can also find simple application at *https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper
-*
+You can also find simple application at [https://tesseractdotnet.googlecode.com/svn/trunk/dotnetwrapper dotnetwrapper]
 
 If you use above application; you have to configure tesseract engine first (from *main menu >> tools >> options*), and copy Leptonica library to application path. 
