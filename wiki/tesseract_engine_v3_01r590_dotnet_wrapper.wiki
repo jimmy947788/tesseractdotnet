@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Releasenote
+#tesseractdotnetwrapper based-on tesseract-ocr v3.01 r590.
 
 = Introduction =
 
