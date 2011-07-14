@@ -1,5 +1,5 @@
+#summary tesseractdotnetwrapper based-on tesseract-ocr v3.01 r590.
 #labels Releasenote
-#tesseractdotnetwrapper based-on tesseract-ocr v3.01 r590.
 
 = Introduction =
 
