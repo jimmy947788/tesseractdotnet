@@ -14,7 +14,7 @@ http://tesseractdotnet.googlecode.com/files/tesseractdotnetwrapper_r590.zip
 
 http://tesseractdotnet.googlecode.com/files/IPoVn_Release_x86.zip
 
-Notes: developed on vs2008 team. All assemblies should work well on x86 platform application.
+*Notes: developed on vs2008 team. All assemblies should work well on x86 platform application.*
 
 = Details =
 
