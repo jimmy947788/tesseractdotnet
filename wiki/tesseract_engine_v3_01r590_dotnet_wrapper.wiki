@@ -9,7 +9,12 @@ It is based-on tesseract-ocr v3.01 r590.
 
 Here is the link: 
 http://code.google.com/p/tesseractdotnet/
+
 http://tesseractdotnet.googlecode.com/files/tesseractdotnetwrapper_r590.zip
+
+http://tesseractdotnet.googlecode.com/files/IPoVn_Release_x86.zip
+
+Notes: developed on vs2008 team. All assemblies should work well on x86 platform application.
 
 = Details =
 
